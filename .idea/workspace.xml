@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f5d7d47-2c78-45e6-aeb2-34d540ae8a46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TreinandoLogica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/AnalisadordeValores_Para.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/Fibonacci1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/FogosdeArtificio.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/Grupo_pessoasFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/ImparesFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/MostrarPar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/NumeroprimoFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/PalindromoFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/ParesFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/PesopessoasFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/RazaopaFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/TabuadaFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/contadorFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for/pessoasFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rascunho.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/Fibonacci2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/Menu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/MouF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/RazaoPa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/RazaoPa2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/Varios_numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/Varios_numeros2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/fatorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/fibonacci_while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/while/palpites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/Fibonacci3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/GrupodePessoas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/NumerosNegativos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/ParouImpar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/PrecodeProdutos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/SuperContador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/Varios_numeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/contador.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/tabuada.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3BiFJ4zTb7M4v5BmcFMYtSZ5YXs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.AnalisadordeValores_Para.executor": "Run",
+    "Python.Fibonacci.executor": "Run",
+    "Python.Fibonacci1.executor": "Run",
+    "Python.Fibonacci2.executor": "Run",
+    "Python.Fibonacci3.executor": "Run",
+    "Python.FogosdeArtificio.executor": "Run",
+    "Python.Grupo_pessoasFor.executor": "Run",
+    "Python.GrupodePessoas.executor": "Run",
+    "Python.ImparesFor.executor": "Run",
+    "Python.Menu.executor": "Run",
+    "Python.MostrarPar.executor": "Run",
+    "Python.MouF.executor": "Run",
+    "Python.NumeroprimoFor.executor": "Run",
+    "Python.NumerosNegativos.executor": "Run",
+    "Python.PalindromoFor.executor": "Run",
+    "Python.ParesFor.executor": "Run",
+    "Python.ParouImpar.executor": "Run",
+    "Python.PesopessoasFor.executor": "Run",
+    "Python.PrecodeProdutos.executor": "Run",
+    "Python.RazaoPa.executor": "Run",
+    "Python.RazaoPa2.executor": "Run",
+    "Python.RazaopaFor.executor": "Run",
+    "Python.SuperContador.executor": "Run",
+    "Python.TabuadaFor.executor": "Run",
+    "Python.Varios_numeros.executor": "Run",
+    "Python.Varios_numeros2.executor": "Run",
+    "Python.contadorFor.executor": "Run",
+    "Python.contador].executor": "Run",
+    "Python.fatorial.executor": "Run",
+    "Python.fibonacci_while.executor": "Run",
+    "Python.palpites.executor": "Run",
+    "Python.pessoasFor.executor": "Run",
+    "Python.rascunho.executor": "Run",
+    "Python.tabuada.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Patricia Nicolini\PycharmProjects\TreinandoLogica\whileTrue" />
+      <recent name="C:\Users\Patricia Nicolini\PycharmProjects\TreinandoLogica\while" />
+      <recent name="C:\Users\Patricia Nicolini\PycharmProjects\TreinandoLogica\for" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f5d7d47-2c78-45e6-aeb2-34d540ae8a46" name="Changes" comment="" />
+      <created>1774963912222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774963912222</updated>
+    </task>
+    <servers />
+  </component>
+</project>
