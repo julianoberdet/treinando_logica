@@ -11,6 +11,34 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcao/Gabarito_deProvaDef.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcao/funcaofatorialFor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcao/funcaofatorialwhile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcao/funcaofatorialwhile2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funcao/funcaofibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jogo_Advinhacao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Jogos_da_copa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mini_Mercado.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/7valoresnumericos_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/7valoresnumericos_trat_erro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Cinema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Gabarito_deProva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Listagem_Alunos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Ordena_Vetor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Par_impar_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Qtd_Posicoes_pares_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Sócom_C_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Torneio_de_Futebol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Torneio_de_Futebol2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/Varios_numerosex81.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/ex80_posicaocorreta_semsort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/ex83_expressao_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/lista_ordem_crescente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/matriz1_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/matriz2_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/matriz3_trat_erro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/nome_peso_lista.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variaves_Compostas/posicoes_numeros_lista.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/for/AnalisadordeValores_Para.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/for/Fibonacci.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/for/Fibonacci1.py" afterDir="false" />
@@ -37,6 +65,7 @@
       <change afterPath="$PROJECT_DIR$/while/fatorial.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/while/fibonacci_while.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/while/palpites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whileTrue/CaixaEletronico.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whileTrue/Fibonacci3.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whileTrue/GrupodePessoas.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/whileTrue/NumerosNegativos.py" afterDir="false" />
@@ -73,47 +102,74 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.7valoresnumericos_lista.executor": "Run",
     "Python.AnalisadordeValores_Para.executor": "Run",
+    "Python.CaixaEletronico.executor": "Run",
+    "Python.Cinema.executor": "Run",
     "Python.Fibonacci.executor": "Run",
     "Python.Fibonacci1.executor": "Run",
     "Python.Fibonacci2.executor": "Run",
     "Python.Fibonacci3.executor": "Run",
     "Python.FogosdeArtificio.executor": "Run",
+    "Python.Gabarito_deProva.executor": "Run",
+    "Python.Gabarito_deProvaDef.executor": "Run",
     "Python.Grupo_pessoasFor.executor": "Run",
     "Python.GrupodePessoas.executor": "Run",
     "Python.ImparesFor.executor": "Run",
+    "Python.Jogos_da_copa.executor": "Run",
+    "Python.Listagem_Alunos.executor": "Run",
     "Python.Menu.executor": "Run",
     "Python.MostrarPar.executor": "Run",
     "Python.MouF.executor": "Run",
     "Python.NumeroprimoFor.executor": "Run",
     "Python.NumerosNegativos.executor": "Run",
+    "Python.Ordena_Vetor.executor": "Run",
     "Python.PalindromoFor.executor": "Run",
+    "Python.Par_Impar_trat_erro.executor": "Run",
+    "Python.Par_impar_lista.executor": "Run",
     "Python.ParesFor.executor": "Run",
     "Python.ParouImpar.executor": "Run",
     "Python.PesopessoasFor.executor": "Run",
     "Python.PrecodeProdutos.executor": "Run",
+    "Python.Qtd_Posicoes_pares_lista.executor": "Run",
     "Python.RazaoPa.executor": "Run",
     "Python.RazaoPa2.executor": "Run",
     "Python.RazaopaFor.executor": "Run",
     "Python.SuperContador.executor": "Run",
+    "Python.Sócom_C_lista.executor": "Run",
     "Python.TabuadaFor.executor": "Run",
+    "Python.Torneio_de_Futebol.executor": "Run",
+    "Python.Torneio_de_Futebol2.executor": "Run",
     "Python.Varios_numeros.executor": "Run",
     "Python.Varios_numeros2.executor": "Run",
+    "Python.Varios_numerosex81.executor": "Run",
     "Python.contadorFor.executor": "Run",
     "Python.contador].executor": "Run",
+    "Python.ex80_posicaocorreta_semsort.executor": "Run",
+    "Python.ex83_expressao_lista.executor": "Run",
     "Python.fatorial.executor": "Run",
     "Python.fibonacci_while.executor": "Run",
+    "Python.funcaofatorialwhile.executor": "Run",
+    "Python.funcaofatorialwhile2.executor": "Run",
+    "Python.funcaofibonacci.executor": "Run",
+    "Python.lista_ordem_crescente.executor": "Run",
+    "Python.matriz1_lista.executor": "Run",
+    "Python.matriz2_lista.executor": "Run",
+    "Python.nome_peso_lista.executor": "Run",
     "Python.palpites.executor": "Run",
     "Python.pessoasFor.executor": "Run",
+    "Python.posicoes_numeros_lista.executor": "Run",
     "Python.rascunho.executor": "Run",
     "Python.tabuada.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Patricia Nicolini\PycharmProjects\TreinandoLogica" />
       <recent name="C:\Users\Patricia Nicolini\PycharmProjects\TreinandoLogica\whileTrue" />
       <recent name="C:\Users\Patricia Nicolini\PycharmProjects\TreinandoLogica\while" />
       <recent name="C:\Users\Patricia Nicolini\PycharmProjects\TreinandoLogica\for" />
@@ -135,5 +191,28 @@
       <updated>1774963912222</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

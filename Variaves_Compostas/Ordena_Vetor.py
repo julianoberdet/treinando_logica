@@ -1,19 +1,19 @@
-vet = [0] * 4
+vet = [0] * 10
 
 # Leitura dos valores
-for i in range(4):
+for i in range(10):
     vet[i] = int(input("Digite um valor: "))
 
 # Ordenação
-for i in range(3):
-    for j in range(i + 1, 4):
+for i in range(9):
+    for j in range(i + 1, 10):
         if vet[i] > vet[j]:
             aux = vet[i]
             vet[i] = vet[j]
             vet[j] = aux
 
 # Exibição
-for i in range(4):
+for i in range(10):
     print(f"{{{vet[i]}}}", end="")
 
 
